@@ -41,9 +41,10 @@ body{
     font-weight: 500;
     margin-left: display35px;
     transition: .3s;
-    margin-top: -200px;
-    margin-left: -250px;
+    margin-top: -250px;
+    margin-left: -200px;
     margin-right: 50px;
+    margin-bottom: -50px;
 }
 
 a{
@@ -61,7 +62,7 @@ a{
     width:100%;
     justify-content: space-between;
     height: 100vh;
-    background:url(image01.jfif)no-repeat;
+    background:url(photo1.jpeg)no-repeat;
     background-size: cover;
     background-position: center;
     display:flex;
@@ -132,7 +133,7 @@ img{
 .tree{
     width: 200px;
     height: 200px;
-    margin-left: 500px;
-    margin-top: 50px;
+    margin-left: 400px;
+    margin-top: 30px;
     position: relative;
 }

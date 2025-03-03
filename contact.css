@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #1f1163;
+    background-color: #0c0c0c;
     color: white;
   }
   
@@ -89,4 +89,7 @@ a{
   text-decoration: none;
   padding: 10px;
   font-size: 20px;
+}
+.navbar a:hover{
+  color: rgb(26, 190, 190);
 }
