@@ -133,7 +133,20 @@ img{
 .tree{
     width: 200px;
     height: 200px;
-    margin-left: 400px;
-    margin-top: 30px;
-    position: relative;
+    margin-left: 600px;
+    margin-top: 80px;
+    position: relative
+    
 }
+@media screen and (max-width: 992px) {
+    body {
+    color: white;
+    }
+   }
+   @media screen and (max-width: 600px) {
+    body {
+    background-color: olive;
+    color: white;
+    }
+   }
+   
